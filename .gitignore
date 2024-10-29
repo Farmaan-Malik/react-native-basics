@@ -52,8 +52,8 @@ yarn-error.log
 **/fastlane/screenshots
 **/fastlane/test_output
 
-ios/
-android/
+.vscode/
+
 # Bundle artifact
 *.jsbundle
 
